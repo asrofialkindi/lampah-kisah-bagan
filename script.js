@@ -9,8 +9,8 @@ let config = {
   maxZoom: 24,
 };
 const zoom = 16;
-const lat = -6.662189;
-const lng = 111.469324;
+const lat = -6.700284;
+const lng = 111.44189;
 
 // calling map
 const map = L.map("map", {
